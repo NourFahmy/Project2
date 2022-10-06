@@ -2,17 +2,17 @@ Project 2: Shiny App Development
 Project Description
 Term: Fall 2022
 
-Analysis of Electricity Consumption in COVID
-Term: Fall 2022
+#Analysis of Electricity Consumption in COVID
+#Term: Fall 2022
 
 Team # 12
 
 Team members
-Donglai Xu
-Nour Fahmy
-Yudan Zhang
-Yuli Yin
-Xilin Huang
+- Donglai Xu
+- Nour Fahmy
+- Yudan Zhang
+- Yuli Yin
+- Xilin Huang
 
 Project summary: The impact of COVID-19 on three main energy consumption including electricity, water and heating gas in different areas of NYC and probably can help the government officials to make decisions about adjusting energy prices/promoting energy-efficient activities/etc. for the sake of energy conservation
 
