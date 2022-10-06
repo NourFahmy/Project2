@@ -2,8 +2,8 @@ Project 2: Shiny App Development
 Project Description
 Term: Fall 2022
 
-#Analysis of Electricity Consumption in COVID
-#Term: Fall 2022
+# Analysis of Electricity Consumption in COVID
+# Term: Fall 2022
 
 Team # 12
 
@@ -19,11 +19,12 @@ Project summary: The impact of COVID-19 on three main energy consumption includi
 Contribution statement: (default) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
 Following suggestions by RICH FITZJOHN (@richfitz). This folder is orgarnized as follows.
-
+`code`
 proj/
 ├── app/
 ├── lib/
 ├── data/
 ├── doc/
 └── output/
+`code`
 Please see each subfolder for a README file.
