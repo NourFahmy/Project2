@@ -18,13 +18,14 @@ Project summary: The impact of COVID-19 on three main energy consumption includi
 
 Contribution statement: (default) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement.
 
-Following suggestions by RICH FITZJOHN (@richfitz). This folder is orgarnized as follows.
-`
+Following suggestions by RICH FITZJOHN (@richfitz). This folder is organized as follows.
+
+```
 proj/
 ├── app/
 ├── lib/
 ├── data/
 ├── doc/
 └── output/
-`
+```
 Please see each subfolder for a README file.
